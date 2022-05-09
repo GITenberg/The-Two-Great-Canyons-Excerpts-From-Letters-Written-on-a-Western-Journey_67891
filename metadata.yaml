@@ -1,5 +1,8 @@
 _repo: The-Two-Great-Canyons-Excerpts-From-Letters-Written-on-a-Western-Journey_67891
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67891-h/images/cover.jpg
 creator:
   author:
     agent_name: Cole, Cyrenus
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54512
     wikipedia: https://en.wikipedia.org/wiki/Cyrenus_Cole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67891#The-Two-Great-Canyons-Excerpts-From-Letters-Written-on-a-Western-Journey
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67891'
